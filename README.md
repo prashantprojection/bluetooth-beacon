@@ -49,8 +49,8 @@ flutter pub get
 #### If you Deny them then you have to do it manually later on or rerun the app
 <div align="center">
   <p>
-    <img src="documentation/phone/lcoation_permission.jpg.jpg" alt="Screenshot 1" width="200"/>
-    <img src="documentation/phone/bluetooth_permission.jpg.jpg" alt="Screenshot 2" width="200"/>
+    <img src="documentation/phone/lcoation_permission.jpg" alt="Location Permission" width="200"/>
+    <img src="documentation/phone/bluetooth_permission.jpg" alt="Bluetooth Permission" width="200"/>
   </p>
 </div>
 
