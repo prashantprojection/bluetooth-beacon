@@ -24,3 +24,13 @@ flutter pub get
 ### 5. Launch the emulator available on your device or pair any physical device for testing.
 (For example, I am using a physical device to test the application.)
 
+## How to run the app using Android studio in your physical device
+#### Follow the Steps below
+
+![Follow Image 1](documentation/studio/Screenshot1.png)
+![Follow Image 2](documentation/studio/Screenshot2.png)
+![Follow Image 3](documentation/studio/Screenshot3.png)
+![Follow Image 4](documentation/studio/Screenshot4.png)
+
+
+
