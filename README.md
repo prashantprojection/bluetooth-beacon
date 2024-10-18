@@ -1,16 +1,26 @@
-# bluetooth_beacon
 
-A new Flutter project.
+# Bluetooth Beacon
 
-## Getting Started
+## Requirements:
+- Git
+- Flutter
 
-This project is a starting point for a Flutter application.
+## Steps to Run the Project:
 
-A few resources to get you started if this is your first Flutter project:
+### 1. Clone the repository using the command below:
+```bash
+git clone https://github.com/prashantprojection/bluetooth-beacon.git
+```
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+### 2. Navigate to the location where you cloned the repository.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### 3. Run the following command in the terminal at the root location of the project to install the necessary dependencies:
+```bash
+flutter pub get
+```
+
+### 4. After successfully installing dependencies, the project is ready to run.
+
+### 5. Launch the emulator available on your device or pair any physical device for testing.
+(For example, I am using a physical device to test the application.)
+

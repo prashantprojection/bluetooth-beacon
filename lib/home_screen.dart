@@ -187,6 +187,9 @@ class _HomeScreenState extends State<HomeScreen> {
               await blController.disconnectToDevice(data.device).then((val) {
                 msg = val;
               });
+              setState(() {
+
+              });
             } else {
               setState(() {
                 _isConnecting = true; // Show overlay
