@@ -66,8 +66,8 @@ flutter pub get
  
 <p>Can press the (link icon) to Connect/Disconnect from devices</p>
  <p>
-    <img src="documentation/phone/3.jpg" alt="Screenshot 1" width="200"/>
-    <img src="documentation/phone/4.jpg" alt="Screenshot 2" width="200"/>
+    <img src="documentation/phone/3.jpg" alt="Screenshot 3" width="200"/>
+    <img src="documentation/phone/4.jpg" alt="Screenshot 4" width="200"/>
   </p>
 </div>
 
